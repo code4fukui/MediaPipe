@@ -1,5 +1,7 @@
 # MediaPipe
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 MediaPipe is a cross-platform framework for building multimodal applied ML pipelines.
 
 ## Features
@@ -17,7 +19,7 @@ import { Hands } from "https://code4fukui.github.io/MediaPipe/Hands.js";
 
 - [Aizume](https://code4fukui.github.io/Aizume/)
 
-## src
+## Source
 
 - [Hands - mediapipe](https://google.github.io/mediapipe/solutions/hands)
 
